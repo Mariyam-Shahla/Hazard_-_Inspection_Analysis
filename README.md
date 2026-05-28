@@ -46,6 +46,7 @@ The dataset contains hazard reports, inspection details, inspection outcomes, ri
 ## Files Included
 - Hazard_&_Inspection_Analysis-Tableau.twbx
 - Tableau_Dashboard.png
+- Hazard&Inspection_Dataset.xlsx
 - README.md
 
 ## Future Improvements
